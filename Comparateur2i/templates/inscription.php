@@ -1,1 +1,0 @@
-templates pour s'inscrire / créer un profil pour ensuite se connecter
